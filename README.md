@@ -12,7 +12,8 @@
 </p>
 <br/>
 
-<h3>Progresso da tradução: 40%</h3>
+<h3>Progresso</h3>
+[▓▓▓▓░░░░░░] 40%
 
 <br/>
 <h3>Lançamento</h3>
