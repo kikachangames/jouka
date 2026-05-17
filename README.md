@@ -1,6 +1,4 @@
-<img src="https://img.shields.io/badge/artes_marciais-1c2a27?style=flat" alt="Artes Marciais">
-<img src="https://img.shields.io/badge/distopia-8b0000?style=flat" alt="Distopia">
-<img src="https://img.shields.io/badge/kinetic_novel-2c3e50?style=flat" alt="Kinetic Novel">
+<img src="https://img.shields.io/badge/artes_marciais-1c2a27?style=flat" alt="Artes Marciais"> <img src="https://img.shields.io/badge/distopia-8b0000?style=flat" alt="Distopia"> <img src="https://img.shields.io/badge/kinetic_novel-2c3e50?style=flat" alt="Kinetic Novel">
 <img src="https://kikachangames.github.io/jouka/img/jouka.png">
 <br/>
 
