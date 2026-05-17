@@ -9,7 +9,7 @@ Patch PT-BR da VN Jouka no Monshou - O Emblema da Chama Sagrada
 <br/>
 
 <h3>"Queime os frutos da tentação onde quer que os encontre."</h3>
-<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v1390" target="_blank">Jouka no Monshou~</a>, lançada pela Eerged em 2003.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v1390" target="_blank">Jouka no Monshou</a>, lançada pela Eerged em 2003.</p>
 <br/>
 
 <h3>Sinopse</h3>
