@@ -1,16 +1,6 @@
-<div class="tags-badges">
-  <img
-    src="https://img.shields.io/badge/artes_marciais-1c2a27?style=flat&logo=martialarts&logoColor=white"
-    alt="Artes Marciais">
-  
-  <img
-    src="https://img.shields.io/badge/distopia-8b0000?style=flat&logo=gandalf&logoColor=white"
-    alt="Distopia">
-
-  <img
-    src="https://img.shields.io/badge/kinetic_novel-2c3e50?style=flat&logo=readme&logoColor=white"
-    alt="Kinetic Novel">
-</div>
+<img src="https://img.shields.io/badge/artes_marciais-1c2a27?style=flat&logo=martialarts&logoColor=white" alt="Artes Marciais">
+<img src="https://img.shields.io/badge/distopia-8b0000?style=flat&logo=gandalf&logoColor=white" alt="Distopia">
+<img src="https://img.shields.io/badge/kinetic_novel-2c3e50?style=flat&logo=readme&logoColor=white" alt="Kinetic Novel">
 
 Patch PT-BR da VN Jouka no Monshou - O Emblema da Chama Sagrada
 
