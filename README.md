@@ -52,7 +52,7 @@
 <p><a href="https://github.com/0Mateus/" target="_blank">0Mateus</a></p>
 <p><a href="https://web.archive.org/web/20070113152158/http://homepage3.nifty.com/DEGREE/kokuchi/kokuti.htm" target="_blank">Eerged</a></p>
 <p><a href="https://github.com/Galladite27/ONScripter-EN/" target="_blank">Galladite27</a></p>
-<p><a href="https://web.archive.org/web/20161209000156/https://tlwiki.org/?title=Jouka_no_Monshou/" target="_blank">TLWiki</a></p>
+<p><a href="https://web.archive.org/web/20161209000156/https://tlwiki.org/?title=Jouka_no_Monshou" target="_blank">TLWiki</a></p>
 <p><a href="https://discord.gg/fWyEeGva9Y/" target="_blank">Visual Novel Android Brasil</a></p>
 
 <br/>
