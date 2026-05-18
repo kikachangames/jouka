@@ -20,6 +20,12 @@
 <p>A ser anunciado.</p>
 <br/>
 
+<img src="https://kikachangames.github.io/jouka/img/1.png">
+<img src="https://kikachangames.github.io/jouka/img/2.png">
+<img src="https://kikachangames.github.io/jouka/img/3.png">
+<img src="https://kikachangames.github.io/jouka/img/4.png">
+<img src="https://kikachangames.github.io/jouka/img/5.png">
+<br/>
 
 <h3>Equipe</h3>
 
