@@ -25,7 +25,7 @@
 <img src="https://kikachangames.github.io/jouka/img/3.png">
 <img src="https://kikachangames.github.io/jouka/img/4.png">
 <img src="https://kikachangames.github.io/jouka/img/5.png">
-<br/>
+<br/><br/>
 
 <h3>Equipe</h3>
 
