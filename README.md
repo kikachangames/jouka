@@ -54,6 +54,7 @@
 <p><a href="https://github.com/Galladite27/ONScripter-EN/" target="_blank">Galladite27</a></p>
 <p><a href="https://web.archive.org/web/20161209000156/https://tlwiki.org/?title=Jouka_no_Monshou" target="_blank">TLWiki</a></p>
 <p><a href="https://discord.gg/fWyEeGva9Y/" target="_blank">Visual Novel Android Brasil</a></p>
+<p><a href="https://vndb.org/p2333" target="_blank">YA-Fansub</a>(<i>in memoriam</i>)</p>
 
 <br/>
 
