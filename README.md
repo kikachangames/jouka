@@ -60,7 +60,7 @@
 
 <h3>Download do patch</h3>
 
-<p>Em breve.</p>
+<a href="https://github.com/kikachangames/jouka/releases/download/v1.0/Jouka-pt-br.exe"><img src="https://kikachangames.github.io/jouka/img/jouks-bt.png"></a>
 
 <br/>
 <br/>
