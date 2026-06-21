@@ -7,7 +7,7 @@
 <br/>
 
 <h3>Sinopse</h3>
-<p>A história acompanha o Sacerdote Bernard e a sua relação de profundo respeito com o seu mentor, Tirelli, dentro da rígida ordem clerical que governa o mundo. Escrita por Gen Urobuchi e ilustrada por Higashiguchi Chuuou, a obra é uma fanfic do filme "Equilibrium" (2002), focada na filosofia e na perfeição técnica do Gun Kata.
+<p>A história acompanha o Sacerdote Bernard e a sua relação de profundo respeito com seu mentor, Tirelli, dentro da rígida ordem clerical que governa o mundo. Escrita por Gen Urobuchi e ilustrada por Higashiguchi Chuuou, a obra é uma fanfic do filme "Equilibrium" (2002), focada na filosofia e na perfeição técnica do Gun Kata.
 
 </p>
 <br/>
