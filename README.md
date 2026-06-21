@@ -59,7 +59,7 @@
 <br/>
 
 <h3>Download do patch</h3>
-Atenção: Certifique-se de ter uma cópia do jogo instalada antes de aplicar o patch.
+<p>Atenção: Certifique-se de ter uma cópia do jogo antes de aplicar o patch.</p>
 <a href="https://github.com/kikachangames/jouka/releases/download/v1.0/Jouka-pt-br.exe"><img src="https://kikachangames.github.io/jouka/img/jouks-bt.png"></a>
 
 <br/>
